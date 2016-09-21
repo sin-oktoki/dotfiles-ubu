@@ -1,0 +1,1 @@
+all ubuntu-running boxes in the house. currently mint, eee, alien. possibly r.pi. sept '16.
