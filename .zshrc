@@ -33,3 +33,8 @@
  #no thank you
  #alias zshconfig="mate ~/.zshrc"
  #alias ohmyzsh="mate ~/.oh-my-zsh"
+ 
+ #being lazy
+ autoload -U compinit && compinit # autocomplete
+ alias g='git'
+    complete -o default -o nospace -F _git g # autocomplete for 'g'
